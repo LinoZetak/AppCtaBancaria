@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\AppCtaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\AppCtaBancaria.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\AppCtaBancaria.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\AppCtaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\bin\Debug\net8.0\AppCtaBancaria.exe
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\bin\Debug\net8.0\AppCtaBancaria.deps.json
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\bin\Debug\net8.0\AppCtaBancaria.runtimeconfig.json
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\bin\Debug\net8.0\AppCtaBancaria.dll
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\bin\Debug\net8.0\AppCtaBancaria.pdb
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\AppCtaBancaria.dll
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\refint\AppCtaBancaria.dll
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\AppCtaBancaria.pdb
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\AppCtaBancaria.genruntimeconfig.cache
+C:\Users\usuario\Desktop\PROGRMACION2\Proyecto\obj\Debug\net8.0\ref\AppCtaBancaria.dll
